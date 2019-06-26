@@ -1,1 +1,7 @@
 This is my first GIT....
+
+class HelloGit{
+	main(){
+		syso("Hello Git...");
+		}
+		}
