@@ -9,3 +9,7 @@ class HelloGit{
 		obj.helloGit();
 		}
 		}
+
+		void myGit(){
+		sysout("Git Method")
+		}
